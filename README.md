@@ -2,9 +2,11 @@
 
 Retrieve vehicle details (Only for bikes registered in India)
 
-To run:
+To install modules:
+  pip install -r requirements.txt
 
-python bike_details.py KL21C3777
+To run:
+  python bike_details.py KL21C3777
 
 
 Output :
